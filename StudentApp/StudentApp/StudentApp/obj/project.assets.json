@@ -349,11 +349,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\StudentApp\\StudentApp\\StudentApp\\StudentApp.csproj",
+      "projectUniqueName": "D:\\Demooo\\StudentApp\\StudentApp\\StudentApp\\StudentApp.csproj",
       "projectName": "StudentApp",
-      "projectPath": "D:\\StudentApp\\StudentApp\\StudentApp\\StudentApp.csproj",
+      "projectPath": "D:\\Demooo\\StudentApp\\StudentApp\\StudentApp\\StudentApp.csproj",
       "packagesPath": "C:\\Users\\Vu\\.nuget\\packages\\",
-      "outputPath": "D:\\StudentApp\\StudentApp\\StudentApp\\obj\\",
+      "outputPath": "D:\\Demooo\\StudentApp\\StudentApp\\StudentApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

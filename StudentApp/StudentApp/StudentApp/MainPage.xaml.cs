@@ -21,13 +21,26 @@ namespace StudentApp
         {
             Detail = new NavigationPage(new HomePage())
             {
-                BarBackgroundColor = Color.FromHex("#FE3F3F"),
+                BarBackgroundColor = Color.FromHex("#000000"),
                 BarTextColor = Color.White
             };
             IsPresented = false;
             IsGestureEnabled = true;
 
         }
+        //homepage
+        private void Home_Clicked(object sender, EventArgs e)
+        {
+            Detail = new NavigationPage(new HomePage())
+            {
+                BarBackgroundColor = Color.FromHex("#000000"),
+                BarTextColor = Color.White
+            };
+            IsPresented = false;
+            IsGestureEnabled = true;
+
+        } 
+
         private void Button_Clicked(object sender, EventArgs e)
         {
             //Detail = new NavigationPage(new AddEmployee());

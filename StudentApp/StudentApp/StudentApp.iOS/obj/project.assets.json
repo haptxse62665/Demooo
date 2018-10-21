@@ -722,11 +722,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\StudentApp\\StudentApp\\StudentApp.iOS\\StudentApp.iOS.csproj",
+      "projectUniqueName": "D:\\Demooo\\StudentApp\\StudentApp\\StudentApp.iOS\\StudentApp.iOS.csproj",
       "projectName": "StudentApp.iOS",
-      "projectPath": "D:\\StudentApp\\StudentApp\\StudentApp.iOS\\StudentApp.iOS.csproj",
+      "projectPath": "D:\\Demooo\\StudentApp\\StudentApp\\StudentApp.iOS\\StudentApp.iOS.csproj",
       "packagesPath": "C:\\Users\\Vu\\.nuget\\packages\\",
-      "outputPath": "D:\\StudentApp\\StudentApp\\StudentApp.iOS\\obj\\",
+      "outputPath": "D:\\Demooo\\StudentApp\\StudentApp\\StudentApp.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -743,8 +743,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "D:\\StudentApp\\StudentApp\\StudentApp\\StudentApp.csproj": {
-              "projectPath": "D:\\StudentApp\\StudentApp\\StudentApp\\StudentApp.csproj"
+            "D:\\Demooo\\StudentApp\\StudentApp\\StudentApp\\StudentApp.csproj": {
+              "projectPath": "D:\\Demooo\\StudentApp\\StudentApp\\StudentApp\\StudentApp.csproj"
             }
           }
         }

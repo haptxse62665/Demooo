@@ -3009,7 +3009,10 @@ namespace StudentApp.Droid
 			public const int tooltip_frame_light = 2131296362;
 			
 			// aapt resource value: 0x7F010005
-			public const int UBD_logo_White = 2130771973;
+			public const int UBD_logo = 2130771973;
+			
+			// aapt resource value: 0x7F010006
+			public const int UBD_logo_White = 2130771974;
 			
 			static Drawable()
 			{

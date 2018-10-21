@@ -784,11 +784,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\StudentApp\\StudentApp\\StudentApp.Android\\StudentApp.Android.csproj",
+      "projectUniqueName": "D:\\Demooo\\StudentApp\\StudentApp\\StudentApp.Android\\StudentApp.Android.csproj",
       "projectName": "StudentApp.Android",
-      "projectPath": "D:\\StudentApp\\StudentApp\\StudentApp.Android\\StudentApp.Android.csproj",
+      "projectPath": "D:\\Demooo\\StudentApp\\StudentApp\\StudentApp.Android\\StudentApp.Android.csproj",
       "packagesPath": "C:\\Users\\Vu\\.nuget\\packages\\",
-      "outputPath": "D:\\StudentApp\\StudentApp\\StudentApp.Android\\obj\\",
+      "outputPath": "D:\\Demooo\\StudentApp\\StudentApp\\StudentApp.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -805,8 +805,8 @@
       "frameworks": {
         "monoandroid81": {
           "projectReferences": {
-            "D:\\StudentApp\\StudentApp\\StudentApp\\StudentApp.csproj": {
-              "projectPath": "D:\\StudentApp\\StudentApp\\StudentApp\\StudentApp.csproj"
+            "D:\\Demooo\\StudentApp\\StudentApp\\StudentApp\\StudentApp.csproj": {
+              "projectPath": "D:\\Demooo\\StudentApp\\StudentApp\\StudentApp\\StudentApp.csproj"
             }
           }
         }

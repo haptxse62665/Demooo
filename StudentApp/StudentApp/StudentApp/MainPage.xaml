@@ -15,6 +15,9 @@
                         <Label Text="UNIVERSITI BRUNEI DARUSSALAM" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" HorizontalTextAlignment="Center" TextColor="White" FontFamily="Muli-SemiBold.ttf"/>
                     </StackLayout>
                     <StackLayout>
+                        <Button Text="Home Page" BackgroundColor="Transparent" Clicked="Home_Clicked" TextColor="White" FontFamily="Muli-Regular.ttf"></Button>
+                    </StackLayout>
+                    <StackLayout>
                         <Button Text="Add Employee" BackgroundColor="Transparent" Clicked="Button_Clicked" TextColor="White" FontFamily="Muli-Regular.ttf"></Button>
                     </StackLayout>
                     <BoxView HeightRequest="1" Color="White" HorizontalOptions="FillAndExpand"/>
