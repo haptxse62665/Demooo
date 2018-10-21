@@ -73,5 +73,17 @@ namespace StudentApp
             IsPresented = false;
             IsGestureEnabled = true;
         }
+        private void Logout_Clickded(object sender, EventArgs e)
+        {
+            IsGestureEnabled = false;
+            //Detail = new NavigationPage(new MainPage())
+            //{
+
+            //    BarBackgroundColor = Color.FromHex("#254f6e"),
+            //    BarTextColor = Color.FromHex("#254f6e")
+            //};
+            //IsPresented = false;
+            Application.Current.MainPage = new MainPage();
+        }
     }
 }

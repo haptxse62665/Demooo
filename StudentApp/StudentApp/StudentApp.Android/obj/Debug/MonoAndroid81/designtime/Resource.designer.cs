@@ -2903,6 +2903,9 @@ namespace StudentApp.Droid
 			// aapt resource value: 0x7F090104
 			public const int ic_vol_type_tv_light = 2131296516;
 			
+			// aapt resource value: 0x7F010005
+			public const int logout = 2130771973;
+			
 			// aapt resource value: 0x7F090105
 			public const int mr_button_connected_dark = 2131296517;
 			
@@ -3008,11 +3011,11 @@ namespace StudentApp.Droid
 			// aapt resource value: 0x7F09006A
 			public const int tooltip_frame_light = 2131296362;
 			
-			// aapt resource value: 0x7F010005
-			public const int UBD_logo = 2130771973;
-			
 			// aapt resource value: 0x7F010006
-			public const int UBD_logo_White = 2130771974;
+			public const int UBD_logo = 2130771974;
+			
+			// aapt resource value: 0x7F010007
+			public const int UBD_logo_White = 2130771975;
 			
 			static Drawable()
 			{
